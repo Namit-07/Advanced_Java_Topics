@@ -41,19 +41,19 @@ Each folder contains:
 - ✅ Practice sets or problems (when available)
 
 - 📌 Prerequisites
-Java JDK 17 or above
-IntelliJ IDEA / VS Code
-Basic understanding of Core Java (OOP, Exception Handling, etc.)
+- Java JDK 17 or above
+- IntelliJ IDEA / VS Code
+- Basic understanding of Core Java (OOP, Exception Handling, etc.)
 
 🚀 What's Next?
-🔄 Consistently pushing advanced topics
-⚙️ Building mini-projects using multithreading and file handling
-📡 Upcoming: Socket-based Chat Application
+- 🔄 Consistently pushing advanced topics
+- ⚙️ Building mini-projects using multithreading and file handling
+- 📡 Upcoming: Socket-based Chat Application
 
 🌐 Connect with Me
-I’m learning in public! Let’s grow together 💪
-📎 GitHub: Namit-07
-📫 LinkedIn: [https://www.linkedin.com/in/namit-tickoo-69b2a9367/]
+- I’m learning in public! Let’s grow together 💪
+- 📎 GitHub: Namit-07
+- 📫 LinkedIn: [https://www.linkedin.com/in/namit-tickoo-69b2a9367/]
 
 
 
