@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24de2713-931c-46c3-8c00-6260d4cd0f04" name="Changes" comment="advanced java kinda boring but very helpful">
-      <change afterPath="$PROJECT_DIR$/src/cwh_96_dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_97_date_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_98_calendar_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_99_gregorian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practise_Sets/cwh_AdvancedJava_PracSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_101_datetime_formatter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.cwh_100_java_time.executor": "Run",
+    "Application.cwh_101_datetime_formatter.executor": "Run",
     "Application.cwh_91_arraylist.executor": "Run",
     "Application.cwh_92_linkedlist.executor": "Run",
     "Application.cwh_93_array_dequeue.executor": "Run",
@@ -56,6 +56,7 @@
     "Application.cwh_97_date_class.executor": "Run",
     "Application.cwh_98_calendar_class.executor": "Run",
     "Application.cwh_99_gregorian.executor": "Run",
+    "Application.cwh_AdvancedJava_PracSet.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -69,7 +70,7 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.cwh_100_java_time">
+  <component name="RunManager" selected="Application.cwh_AdvancedJava_PracSet">
     <configuration name="cwh_100_java_time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cwh_100_java_time" />
       <module name="Advanced_Java_Topics" />
@@ -77,15 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_96_dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_96_dates" />
-      <module name="Advanced_Java_Topics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cwh_97_date_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_97_date_class" />
+    <configuration name="cwh_101_datetime_formatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_101_datetime_formatter" />
       <module name="Advanced_Java_Topics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cwh_AdvancedJava_PracSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practise_Sets.cwh_AdvancedJava_PracSet" />
+      <module name="Advanced_Java_Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practise_Sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cwh_AdvancedJava_PracSet" />
+        <item itemvalue="Application.cwh_101_datetime_formatter" />
         <item itemvalue="Application.cwh_100_java_time" />
         <item itemvalue="Application.cwh_99_gregorian" />
         <item itemvalue="Application.cwh_98_calendar_class" />
-        <item itemvalue="Application.cwh_97_date_class" />
-        <item itemvalue="Application.cwh_96_dates" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751363573050</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="advanced java kinda boring but very helpful">
+      <option name="closed" value="true" />
+      <created>1751442904436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751442904436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
