@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24de2713-931c-46c3-8c00-6260d4cd0f04" name="Changes" comment="advanced java kinda boring but very helpful">
-      <change afterPath="$PROJECT_DIR$/src/Practise_Sets/cwh_AdvancedJava_PracSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cwh_101_datetime_formatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_106_javadoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_107_lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_107_method_tags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_108_annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_110_generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +54,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DemoAno$cwh_107_lambda.executor": "Run",
     "Application.cwh_100_java_time.executor": "Run",
     "Application.cwh_101_datetime_formatter.executor": "Run",
+    "Application.cwh_107_lambda (1).executor": "Run",
+    "Application.cwh_107_lambda.executor": "Run",
+    "Application.cwh_108_annotations (1).executor": "Run",
+    "Application.cwh_108_annotations (2).executor": "Run",
+    "Application.cwh_108_annotations (3).executor": "Run",
+    "Application.cwh_108_annotations (4).executor": "Run",
+    "Application.cwh_108_annotations.executor": "Run",
     "Application.cwh_91_arraylist.executor": "Run",
     "Application.cwh_92_linkedlist.executor": "Run",
     "Application.cwh_93_array_dequeue.executor": "Run",
@@ -70,55 +86,49 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.cwh_AdvancedJava_PracSet">
-    <configuration name="cwh_100_java_time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_100_java_time" />
+  <component name="RunManager" selected="Application.DemoAno$cwh_107_lambda">
+    <configuration name="DemoAno$cwh_107_lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoAno$cwh_107_lambda" />
       <module name="Advanced_Java_Topics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_101_datetime_formatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_101_datetime_formatter" />
+    <configuration name="cwh_107_lambda (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_107_lambda" />
       <module name="Advanced_Java_Topics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_98_calendar_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_98_calendar_class" />
+    <configuration name="cwh_107_lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_107_lambda" />
       <module name="Advanced_Java_Topics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_99_gregorian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwh_99_gregorian" />
+    <configuration name="cwh_108_annotations (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_108_annotations" />
       <module name="Advanced_Java_Topics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cwh_AdvancedJava_PracSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practise_Sets.cwh_AdvancedJava_PracSet" />
+    <configuration name="cwh_108_annotations (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwh_108_annotations" />
       <module name="Advanced_Java_Topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practise_Sets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.cwh_AdvancedJava_PracSet" />
-        <item itemvalue="Application.cwh_101_datetime_formatter" />
-        <item itemvalue="Application.cwh_100_java_time" />
-        <item itemvalue="Application.cwh_99_gregorian" />
-        <item itemvalue="Application.cwh_98_calendar_class" />
+        <item itemvalue="Application.DemoAno$cwh_107_lambda" />
+        <item itemvalue="Application.cwh_107_lambda (1)" />
+        <item itemvalue="Application.cwh_107_lambda" />
+        <item itemvalue="Application.cwh_108_annotations (4)" />
+        <item itemvalue="Application.cwh_108_annotations (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751442904436</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="advanced java kinda boring but very helpful">
+      <option name="closed" value="true" />
+      <created>1751534517662</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751534517662</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
